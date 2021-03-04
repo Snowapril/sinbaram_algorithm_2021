@@ -1,5 +1,7 @@
 # Sinbaram Alogirthm Study 2021
 ![LOGO](logo.png)
+[![CodeFactor](https://www.codefactor.io/repository/github/snowapril/sinbaram_algorithm_2021/badge)](https://www.codefactor.io/repository/github/snowapril/sinbaram_algorithm_2021)[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f372c28b91ae48d8b99381c59df1e480)](https://www.codacy.com/gh/Snowapril/sinbaram_algorithm_2021/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Snowapril/sinbaram_algorithm_2021&amp;utm_campaign=Badge_Grade)
+
 신바람 알고리즘 스터디에서 문제를 풀고 코드를 업로드 하는 저장소입니다!
 다같이 코드를 리뷰해서 서로 이슈를 남기며 발전할 수 있도록 스터디가 끝나면 코드들을 꼭 업로드해주세요!
 
